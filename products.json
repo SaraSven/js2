@@ -1,0 +1,81 @@
+[
+    {
+        "id": "1",
+        "title": "Banana Gum",
+        "description": "Fruktigt tuggummi med smak av bannan",
+        "image": "./pictures/banana.jpg",
+        "price": 30
+    },
+
+    {
+        "id": "2",
+        "title": "Extra Gum",
+        "description": "Klassikern som både är gott och bra för tänderna",
+        "image": "./pictures/extra.jpg",
+        "price": 15
+    },
+
+    {
+        "id": "3",
+        "title": "Hubba Bubba",
+        "description": "Bästa och godaste tuggummit att blåsa bubblor med",
+        "image": "./pictures/hubba.jpg",
+        "price": 20
+    },
+
+    {
+        "id": "4",
+        "title": "Mentos Gum",
+        "description": "Mint och frukt i ett",
+        "image": "./pictures/mentos.jpg",
+        "price": 10
+    },
+
+    {
+        "id": "5",
+        "title": "Mood Gum",
+        "description": "Ett stilrent tuggummi som får dig på bra humör",
+        "image": "./pictures/mood.jpg",
+        "price": 30
+    },
+
+    {
+        "id": "6",
+        "title": "Orb Gum",
+        "description": "Bubblemint nomnom",
+        "image": "./pictures/orb.jpg",
+        "price": 15
+    },
+
+    {
+        "id": "7",
+        "title": "Tubble Gum",
+        "description": "Gott tuggummi på tub!",
+        "image": "./pictures/tubble.jpg",
+        "price": 20
+    },
+
+    {
+        "id": "8",
+        "title": "Tutti frutti roll",
+        "description": "Dela denna med dina vänner",
+        "image": "./pictures/tutti.jpg",
+        "price": 30
+    },
+
+    {
+        "id": "9",
+        "title": "V6",
+        "description": "V6 vad behövs mer att säga?",
+        "image": "./pictures/v6.jpg",
+        "price": 10
+    },
+
+    {
+        "id": "10",
+        "title": "Zoom Gum",
+        "description": "Godaste tuggummit som finns!",
+        "image": "./pictures/zoom.jpg",
+        "price": 30
+    }
+]

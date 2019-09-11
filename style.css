@@ -1,0 +1,20 @@
+body {
+    background: #f5cbf7;
+}
+
+.img {
+    margin: center;
+}
+
+.container-small {
+    max-width: 50%;
+}
+
+.form-control-warning {
+    border-color: red;
+}
+
+
+.form-control-ok {
+    border-color: green;
+}
